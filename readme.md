@@ -1,7 +1,10 @@
 ## 3D Audio Assignment 3 Submission
 #### Jong Wook Kim
 
-You can browse my implementation of VBAP.
+
+Hi,
+
+In this page you can browse my implementation of VBAP.
 
 [audio](https://github.com/jongwook/vbap/tree/master/audio) directory contains iOS App implementation,
 
